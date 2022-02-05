@@ -1,30 +1,28 @@
 ---
 # Display name
-name: Lawrence Carslake
-
-# Username (this should match the folder name)
-authors:
-- lawrence
+title: Lawrence Carslake
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Electronic and Communications Engineer
+# Role/position/tagline
+role: Electronics and Communications Engineer
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: ""
-  url: ""
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include communications and RF system design.
 
+# Interests to show in About widget
 interests:
 - FPGAs
 - RF Circuit design
 - SDR Systems
 
+# Education to show in About widget
 education:
   courses:
   - course: 1st Class Masters in Electronic Engineering with Communications (MEng Hons)
@@ -35,9 +33,9 @@ education:
     year: 2015
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: github
   icon_pack: fab
@@ -52,19 +50,18 @@ social:
   icon_pack: fab
   link: https://www.youtube.com/channel/UCjay8oFd6w0kiuUpXwUqYmA
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
+
 I am a graduate Electronic Engineer specialised in communications and digital design.  This site is a collection of projects and posts about work that I have completed, aiming to share the knowledge with you.
