@@ -4,7 +4,7 @@
 title: "LEO Satellite"
 summary: "LEO Communication Satellite Constellation for SSPI"
 authors: ["lawrence"]
-tags: ["complete", "communications"]
+tags: ["complete", "communications", "Undergraduate"]
 categories: []
 date: 2017-09-01T14:23:04+01:00
 # Optional external URL for project (replaces project detail page).

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Motor Fill Factor"
-summary: "Maximising Motor Fill factor"
+title: "Rydberg Sensor"
+summary: "Self calibrated E-Field Measurement"
 authors: ["lawrence"]
-tags: ["complete", "Undergraduate"]
+tags: ["RF", "ongoing","NPL"]
 categories: []
-date: 2017-05-01T14:23:04+01:00
+date: 2025-09-01T11:38:56+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,16 +20,11 @@ image:
   preview_only: false
 
 # Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+#  Uncomment and edit lines below to show custom links.
 
 url_code: ""
 url_pdf: ""
-url_slides: "docs/SHIPS_Presentation.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
@@ -39,4 +34,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-As part of the Sheffield Industrial Partnership, I managed a team working with Rolls-Royce to create a novel solution aiming to increase the efficiency of motor-generators in the aviation industry. This concluded with the production of a technical report and a presentation to staff from the University and Rolls-Royce.
+My most recent project is to develop NPL's capability in Rydberg sensor systems. The goal for this system is develop wideband self calibrated E-field measurement capability based on quantum effects. This is expected to improve the measurement uncertainty for this measurement service 10x. Additionally, there are many applications including remote sensing, ultra-sensitive receivers and integrated demodulation functions possible for future work when these sensors are established.

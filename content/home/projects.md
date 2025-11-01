@@ -27,6 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: NPL
+    tag: NPL
+  - name: Undergraduate
+    tag: Undergraduate
   - name: Ongoing
     tag: ongoing
   - name: Complete

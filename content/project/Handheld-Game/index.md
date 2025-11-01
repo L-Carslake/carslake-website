@@ -4,7 +4,7 @@
 title: "Handheld Game"
 summary: "Discrete logic & PCB design"
 authors: ["lawrence"]
-tags: ["complete"]
+tags: ["complete",]
 categories: []
 date: 2015-05-01T14:22:43+01:00
 

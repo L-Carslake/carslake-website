@@ -4,7 +4,7 @@
 title: "Pluto SDR"
 summary: "IQ Reciever"
 authors: ["lawrence"]
-tags: ["ongoing", "RF", "communications"]
+tags: ["ongoing", "RF", "communications", "Undergraduate"]
 categories: []
 date: 2019-06-23T14:21:25+01:00
 

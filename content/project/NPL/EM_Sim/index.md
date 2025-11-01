@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Motor Fill Factor"
-summary: "Maximising Motor Fill factor"
+title: "Electromagnetic Simulation"
+summary: "Wearable antenna design with CST Studio"
 authors: ["lawrence"]
-tags: ["complete", "Undergraduate"]
+tags: ["RF", "complete","NPL"]
 categories: []
-date: 2017-05-01T14:23:04+01:00
+date: 2024-03-01T11:38:56+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,16 +20,10 @@ image:
   preview_only: false
 
 # Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
+#  Uncomment and edit lines below to show custom links.
 url_code: ""
 url_pdf: ""
-url_slides: "docs/SHIPS_Presentation.pdf"
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
@@ -39,4 +33,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-As part of the Sheffield Industrial Partnership, I managed a team working with Rolls-Royce to create a novel solution aiming to increase the efficiency of motor-generators in the aviation industry. This concluded with the production of a technical report and a presentation to staff from the University and Rolls-Royce.

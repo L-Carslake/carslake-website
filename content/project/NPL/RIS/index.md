@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shockley Diode"
-summary: "100µm Silicon Fabrication"
+title: "Reconfigurable Intelligent Surface"
+summary: "For efficient 5G Communications"
 authors: ["lawrence"]
-tags: ["complete", "Undergraduate"]
+tags: ["RF", "complete","NPL"]
 categories: []
-date: 2017-06-20T14:22:51+01:00
+date: 2025-03-01T11:38:56+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,12 +20,10 @@ image:
   preview_only: false
 
 # Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+#  Uncomment and edit lines below to show custom links.
+links:
+- name: Press release
+  url: https://www.npl.co.uk/news/revolutionising-the-telecommunications-industry
 
 url_code: ""
 url_pdf: ""
@@ -39,4 +37,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-A training exercise to learn the techniques required to operate and manufacture in a clean room. Consisted of an overview of techniques such as photolithography, vacuum deposition and silicon device characterisation.
+Design, manufacture and testing of a 1.5 bit RIS system operating at 3.7 GHz for 5G communications. NPL have successfully completed real-world field trials of its patented Reconfigurable Intelligent Surface (RIS) technology on a commercial 5G base station at BT’s Research Centre at Adastral Park. This cutting-edge RIS technology, designed and manufactured at NPL, has demonstrated remarkable performance that promises to revolutionise the telecommunications industry. 

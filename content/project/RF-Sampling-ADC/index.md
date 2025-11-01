@@ -4,7 +4,7 @@
 title: "RF Sampling ADC"
 summary: "400MSPS Interleaved ADC RF Reciever"
 authors: ["lawrence"]
-tags: ["RF","communications","complete"]
+tags: ["RF","communications","complete", "Undergraduate"]
 categories: []
 date: 2018-05-01T14:21:44+01:00
 
