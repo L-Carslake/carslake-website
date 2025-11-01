@@ -6,7 +6,7 @@ title: Lawrence Carslake
 superuser: true
 
 # Role/position/tagline
-role: Electronics and Communications Engineer
+role: Communications Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,12 +14,12 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include communications and RF system design.
+bio: My research interests include communications experimental testbed design and RF simulation.
 
 # Interests to show in About widget
 interests:
-- FPGAs
-- RF Circuit design
+- Sub-THz Channel Sounding
+- Rydberg E-Field Sensors
 - SDR Systems
 
 # Education to show in About widget
@@ -31,6 +31,8 @@ education:
   - course: A-Level (ABB) Maths, Further Maths and Physics
     institution: Glyn Technology School
     year: 2015
+  - course: Future PhD Study
+    institution: it is my intention to complete additonal study 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,4 +66,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a graduate Electronic Engineer specialised in communications and digital design.  This site is a collection of projects and posts about work that I have completed, aiming to share the knowledge with you.
+I am a graduate Electronic Engineer specialised in communications system design.  This site is a collection of projects and posts about work that I have completed, aiming to share the knowledge with you.

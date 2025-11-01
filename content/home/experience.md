@@ -23,12 +23,24 @@ headless: true
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Higher Scientist
+  company: National Physical Laboratory
+  company_url: npl.co.uk
+  location: Teddington
+  date_start: '2023-07-01'
+  date_end: ''
+  description: |2-
+      Responsibilities include:
+  
+      * Project bidding and work package leadership
+      * RF Measurement and metrology
+      * Communications Testbed design
 - title: Research Scientist
   company: National Physical Laboratory
   company_url: npl.co.uk
   location: Teddington
   date_start: '2019-10-01'
-  date_end: ''
+  date_end: '2023-07-01'
   description: |2-
       Responsibilities include:
   
