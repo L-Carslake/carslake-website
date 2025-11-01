@@ -59,14 +59,6 @@ item:
   date_start: '2019-07-19'
   date_end: ''
   description: ''
-- organization: Glyn Technology School
-  organization_url: 'http://www.glynschool.org'
-  title: 'A-Level (ABB) Maths, Further Maths and Physics'
-  url: ''
-  certificate_url: ''
-  date_start: '2015-06-01'
-  date_end: ''
-  description: ''
 
 
 design:
