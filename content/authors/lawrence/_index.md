@@ -18,21 +18,21 @@ bio: My research interests include communications experimental testbed design an
 
 # Interests to show in About widget
 interests:
-- Quantum Rydberg Sensors for Communications
 - Sub-THz Channel Sounding
+- Rydberg E-Field Sensors
 - SDR Systems
 
 # Education to show in About widget
 education:
-  - course: PhD Candidate in Quantum Rydberg Sensors for Communications Metrology
-    institution: Durham University
-    year: 2026
+  courses:
   - course: 1st Class Masters in Electronic Engineering with Communications (MEng Hons)
     institution: The University of Sheffield
     year: 2019
   - course: A-Level (ABB) Maths, Further Maths and Physics
     institution: Glyn Technology School
     year: 2015
+  - course: Future PhD Study
+    institution: it is my intention to complete additonal study 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,4 +66,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a graduate Electronic Engineer specialised in communications system measurement to support national measurement standards and UK Industry.  This site is a collection of projects and posts about work that I have completed, aiming to share the knowledge with you.
+I am a graduate Electronic Engineer specialised in communications system design.  This site is a collection of projects and posts about work that I have completed, aiming to share the knowledge with you.
