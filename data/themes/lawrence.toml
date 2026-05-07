@@ -5,12 +5,12 @@ name = "Lawrence"
 light = true
 
 # Primary
-primary = "#29A2FF"
+primary = "#00599E"
 
 # Menu
-menu_primary = "#29A2FF" # 500
+menu_primary = "#00599E" # 500
 menu_text = "#fff"
-menu_text_active = "#145180" # A100
+menu_text_active = "#29A2FF" # A100
 menu_title = "#fff"
 
 # Home sections
