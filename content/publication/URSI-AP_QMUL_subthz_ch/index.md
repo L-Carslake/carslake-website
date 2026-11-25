@@ -11,7 +11,7 @@ authors:
 - A. Alomainy
 
 date: "2025-08-17T00:00:00Z"
-doi: "10.46620/URSIAPRASC25/BRUH8638."
+doi: "10.46620/URSIAPRASC25/BRUH8638"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-08-17T00:00:00Z"

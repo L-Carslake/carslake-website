@@ -6,7 +6,7 @@ title: Lawrence Carslake
 superuser: true
 
 # Role/position/tagline
-role: Communications Research Scientist
+role: Communications and Quantum Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,4 +67,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a graduate Electronic Engineer specialised in communications system measurement to support national measurement standards and UK Industry.  This site is a collection of projects and posts about work that I have completed, aiming to share the knowledge with you.
+I am a Higher Scientist at the National Physical Laboratory (NPL) and a part-time PhD candidate at Durham University, working on developing Rydberg atom sensors into traceable communications measurement instruments. My research addresses the SI traceability of these sensors, in particular the assembly-level uncertainty introduced by the vapour cell, cradle and optics. Alongside this, my earlier and ongoing work covers sub-THz channel sounding, 5G testbed design and RF simulation.

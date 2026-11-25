@@ -32,9 +32,10 @@ experience:
   description: |2-
       Responsibilities include:
   
-      * Project bidding and work package leadership
-      * RF Measurement and metrology
-      * Communications Testbed design
+      * Technical leadership of Rydberg atom sensing projects
+      * Business development, project bidding and work package leadership
+      * RF measurement and metrology
+      * Communications testbed design
 - title: Research Scientist
   company: National Physical Laboratory
   company_url: npl.co.uk
