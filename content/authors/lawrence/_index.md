@@ -49,9 +49,6 @@ social:
 #- icon: facebook
 #  icon_pack: fab
 #  link: https://www.facebook.com/Lawrence.carslake.me
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCjay8oFd6w0kiuUpXwUqYmA
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,4 +64,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Higher Scientist at the National Physical Laboratory (NPL) and a part-time PhD candidate at Durham University, working on developing Rydberg atom sensors into traceable communications measurement instruments. My research addresses the SI traceability of these sensors, in particular the assembly-level uncertainty introduced by the vapour cell, cradle and optics. Alongside this, my earlier and ongoing work covers sub-THz channel sounding, 5G testbed design and RF simulation.
+I am a Higher Scientist at the National Physical Laboratory (NPL) and a PhD candidate at Durham University, working on developing Rydberg atom sensors into traceable communications measurement instruments. My research addresses the SI traceability of these sensors, in particular the assembly-level uncertainty introduced by the vapour cell, cradle and optics. Alongside this, my earlier and ongoing work covers sub-THz channel sounding, 5G testbed design and RF simulation.
